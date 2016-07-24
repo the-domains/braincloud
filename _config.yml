@@ -6,9 +6,9 @@ color:
   saturation: 0.31000332487747073
   rhythmicContrast: 0.25767655204981565
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: BRAINCLOUD
