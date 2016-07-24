@@ -1,0 +1,14 @@
+layout_spectrum: 0.7326444718055427
+typography_spectrum: 0.6337452125735581
+color:
+  brandStrength: 0.5930132009088993
+  lightness: 0.006179052172228694
+  saturation: 0.31000332487747073
+  rhythmicContrast: 0.25767655204981565
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: BRAINCLOUD
